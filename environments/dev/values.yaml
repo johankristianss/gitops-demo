@@ -2,7 +2,7 @@
 
 app:
   name: hello-world
-  replicas: 4 
+  replicas: 1 
 
 # Development domain - change to your assigned domain
 domain: helloworld-dev.ltu-m7011e-johan.se
