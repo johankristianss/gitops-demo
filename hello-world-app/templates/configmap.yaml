@@ -59,7 +59,7 @@ data:
     </head>
     <body>
         <div class="container">
-            <h1>🚀 GitOps with Argo CD</h1>
+            <h1>🚀 JOHAN WAS HERE!!! GitOps with Argo CD</h1>
             <div class="message">{{ .Values.message }}</div>
             <div class="badge">Environment: {{ .Values.environment }}</div>
             <div class="info">
